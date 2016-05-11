@@ -1,0 +1,28 @@
+name: massconfusion
+favicon: null
+layout_spectrum: 0.37607955653220415
+typography_spectrum: 0.7631697743199766
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.028544656466692686
+  lightness: 0.6768295571673661
+  saturation: 0.051672423956915736
+  rhythmicContrast: 0.7288665915839374
+purpose: []
