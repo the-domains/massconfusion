@@ -1,7 +1,7 @@
 name: massconfusion
 favicon: null
-layout_spectrum: 0.37607955653220415
-typography_spectrum: 0.7631697743199766
+layout_spectrum: 0.00181
+typography_spectrum: 0.64913
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.028544656466692686
+  brandStrength: 0.125
   lightness: 0.6768295571673661
   saturation: 0.051672423956915736
   rhythmicContrast: 0.7288665915839374
