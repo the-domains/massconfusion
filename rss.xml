@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[massconfusion]]></title>
         <description><![CDATA[massconfusion]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/massconfusion/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 04:33:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 15 May 2016 04:33:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/massconfusion/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f603e88d-8b9a-4021-9a62-b2503d5f898e.jpg">]]></description>
+            <link>https://thegrid.ai/massconfusion/07fa6f90-8be8-40be-888a-f42b71158571/index.html</link>
+            <guid isPermaLink="false">07fa6f90-8be8-40be-888a-f42b71158571</guid>
+            <pubDate>Sun, 15 May 2016 04:33:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6b80512-5b06-4612-99ff-928a02a4a056.jpg">]]></description>
-            <link>undefinedd3c1b33b-fd82-49d1-9dab-f8b410f97be9/index.html</link>
+            <link>https://thegrid.ai/massconfusion/d3c1b33b-fd82-49d1-9dab-f8b410f97be9/index.html</link>
             <guid isPermaLink="false">d3c1b33b-fd82-49d1-9dab-f8b410f97be9</guid>
             <pubDate>Sun, 15 May 2016 04:33:47 GMT</pubDate>
         </item>
