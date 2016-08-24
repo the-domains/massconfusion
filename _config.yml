@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: the illest alive
-    url: 'http://mass-confusion.com'
-    type: external
 favicon: null
 title: mass confusion
 purpose: []
